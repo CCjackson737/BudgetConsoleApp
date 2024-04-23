@@ -1,0 +1,3 @@
+The CSV files included are what I was using to test the project. To access all you simply have to do is type in the name on the file minus budget. For example to access your file/Cameronbudget.csv data
+you just type your name. For my I type Cameron and have access to all my data in my csv file and can do various things with it. However, if you are a new user who doesnt have a csv file made, one will be made in the root
+directory of the folder.
